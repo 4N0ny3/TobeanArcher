@@ -84,4 +84,18 @@ $ su
 ```
 change the system language in settings
 
-==**I wanna to write today**==
+#### Install fcitx5
+> **BV1jys6eaEtM**
+
+```
+$ sudo pacman -S fcitx5-im fcitx5-rime
+```
+
+```
+$ cd ~/.local/share/fcitx5/rime
+$ git clone https://github.com/iDvel/rime-ice.git // a theme
+$ cp -r ./rime-ice/* .
+```
+reboot fcitx5 
+
+**==I think the bascial settings already setting==**
