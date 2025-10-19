@@ -1,3 +1,2 @@
-# TobeanArcher
-I wanna give up Windows, I try to learn how to archlinux.
-# Test Headtitle
+# My Arch Experience
+This md file just what I've learned , it may full mistakes
